@@ -1021,8 +1021,12 @@ SERVICE PAGES
 }
 
 .service-blocks .service-block .service-icon {
-  float: left;
-  margin: 10px 20px 0 0;
+  /* float: left; */
+  /* margin: 10px 145px 0 145px; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
 }
 
 .service-blocks .service-block .service-icon i {
