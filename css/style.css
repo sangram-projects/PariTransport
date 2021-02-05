@@ -268,6 +268,59 @@ OUR SERVICES SECTION
   height: 100%;
 }
 
+
+/* .service-section {
+  background: url(../img/feature-bg.png) no-repeat;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  color: #fff;
+} */
+
+.service-section {
+  /* background: url(../img/service.png) no-repeat; */
+  background-color: #fff;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  position: relative;
+  overflow: hidden;
+}
+
+/* .service-section::before {
+  content: "\f10d";
+  font-family: FontAwesome;
+  font-size: 400px;
+  color: #EAECEE;
+  position: absolute;
+  left: 0px;
+  top: 95px;
+} */
+
+.service-section .row-content {
+  margin-top: 70px;
+}
+
+.service-content {
+  padding-bottom: 50px;
+}
+
+.service-content p {
+  font-size: 18px;
+  line-height: 30px;
+  font-style: italic;
+}
+
+.service-content .client-title {
+  display: block;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: bold;
+  color: #fff;
+  /* color: #bfc4d2; */
+  margin-top: 42px;
+}
+
 /* ------------------------------------------------------------------
 Featuer Section
 --------------------------------------------------------------------- */
