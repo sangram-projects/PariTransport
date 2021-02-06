@@ -389,6 +389,18 @@ Whyus Setion
 --------------------------------------------------------------------- */
 .why-us-setion .content-row {
   margin-top: 90px;
+
+}
+ 
+.why-section {
+  background: url(../img/why.png) no-repeat;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  color: #fff;
+  /* background-color: #f4f6f7;
+  position: relative;
+  overflow: hidden; */
 }
 
 /*css-tab*/
@@ -523,7 +535,7 @@ TESTIMONIAL SECTION
   overflow: hidden; */
 }
 
-.testimonial-section::before {
+/* .testimonial-section::before {
   content: "\f10d";
   font-family: FontAwesome;
   font-size: 400px;
@@ -531,7 +543,7 @@ TESTIMONIAL SECTION
   position: absolute;
   left: 0px;
   top: 95px;
-}
+} */
 
 .testimonial-section .row-content {
   margin-top: 70px;
