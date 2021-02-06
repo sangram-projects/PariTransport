@@ -513,9 +513,14 @@ Whyus Setion
 TESTIMONIAL SECTION
 --------------------------------------------------------------------- */
 .testimonial-section {
-  background-color: #f4f6f7;
+  background: url(../img/service.png) no-repeat;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  color: #fff;
+  /* background-color: #f4f6f7;
   position: relative;
-  overflow: hidden;
+  overflow: hidden; */
 }
 
 .testimonial-section::before {
