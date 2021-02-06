@@ -55,6 +55,7 @@ jQuery(function ($) {
         $("#offcanvasMenu li:has(ul) > a").append(ico);
         $("#offcanvasMenu > li:has(ul)").on("click", function () {
             $(this).toggleClass("open");
+            // alert("jshdjshdshdjsd")
         });
     })();
     (function () {
