@@ -6,7 +6,6 @@ Author: Cloud Software Solution Ltd.
 */
 
 
-
 .mobile-container {
   max-width: 480px;
   margin: auto;
@@ -50,6 +49,7 @@ Author: Cloud Software Solution Ltd.
   background-color: #ddd;
   color: black;
 }
+
 
 .float{
 	position:fixed;
