@@ -679,6 +679,25 @@ h1.logo {
     -ms-transition: 0.3s;
     transition: 0.3s;
 }
+
+.footer-widget-section address .modal-pay {
+    border: 0;
+    font-size: 12px;
+    line-height: 23px;
+    color: #fff;
+    padding: 0 16px;
+    margin-top: 12px;
+    border-radius: 30px;
+    background-color:#3bd346;
+}
+.footer-widget-section address .modal-pay:hover {
+    background-color: #333;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    transition: 0.3s;
+}
+
 .footer-widget-section address .tel {
     display: block;
     margin-top: 35px;
