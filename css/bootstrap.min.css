@@ -935,7 +935,7 @@ img {
 .carousel-inner > .item > a > img {
     display: block;
     max-width: 100%;
-    height: auto;
+    height: 500px;
 }
 .img-rounded {
     border-radius: 6px;
@@ -4272,12 +4272,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     }
     .navbar-right {
         float: right !important;
-        margin-right: -15px;
+        margin-right: 11px;
+        margin-left: -28%;
+        /* margin-right: -15px; */
     }
     .navbar-right ~ .navbar-right {
         margin-right: 0;
     }
-    
 }
 .navbar-default {
     background-color: #f8f8f8;
